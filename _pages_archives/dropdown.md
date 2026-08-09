@@ -1,4 +1,6 @@
 ---
+
+
 layout: page
 title: submenus
 nav: true
@@ -11,3 +13,5 @@ children:
   - title: blog
     permalink: /blog/
 ---
+
+to be added to _pages to add a submenus
