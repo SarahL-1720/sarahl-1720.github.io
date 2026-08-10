@@ -70,7 +70,7 @@ horizontal: false
           </p>
 
           <p>
-            <strong>Report:</strong>
+            <strong>Link:</strong>
             <a href="{{ '/files/Trade_off_between_Privacy_and_Explainability_in_House_Allocation_problems.pdf' | relative_url }}">
               Research report
             </a>
@@ -164,7 +164,7 @@ horizontal: false
           </div>
 
           <p>
-            <strong>Repository:</strong>
+            <strong>Link:</strong>
             <a href="https://github.com/SarahL-1720/linear-optimisation-sdp-project">
               GitHub repository
             </a>
@@ -204,7 +204,7 @@ horizontal: false
           </div>
 
           <p>
-            <strong>Repository:</strong>
+            <strong>Link:</strong>
             <a href="https://github.com/SarahL-1720/graph-analytics-m">
               GitHub repository
             </a>
@@ -288,7 +288,7 @@ horizontal: false
           </p>
 
           <p>
-            <strong>Repository:</strong>
+            <strong>Link:</strong>
             <a href="https://gitlab.com/portfolio-sarah">
               GitLab repository
             </a>
