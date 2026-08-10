@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects portfolio
+title: Projects
 permalink: /projects/
 description: Most of my machine learning or symbolic AI projects in one place !
 nav: true
@@ -71,7 +71,7 @@ horizontal: false
 
           <p>
             <strong>Link:</strong>
-            <a href="{{ '/files/Trade_off_between_Privacy_and_Explainability_in_House_Allocation_problems.pdf' | relative_url }}">
+            <a href="{{ '/assets/pdf/Trade_off_between_Privacy_and_Explainability_in_House_Allocation_problems.pdf' | relative_url }}">
               Research report
             </a>
           </p>
@@ -121,7 +121,7 @@ horizontal: false
 
           <p>
             <strong>Links:</strong>
-            <a href="{{ '/files/RL_report_highway%20(1).pdf' | relative_url }}">
+            <a href="{{ '/assets/pdf/RL_report_highway.pdf' | relative_url }}">
               Research report
             </a>
             ·
@@ -205,7 +205,7 @@ horizontal: false
 
           <p>
             <strong>Link:</strong>
-            <a href="https://github.com/SarahL-1720/graph-analytics-m">
+            <a href="https://github.com/SarahL-1720/graph-analytics-ml">
               GitHub repository
             </a>
           </p>
@@ -289,7 +289,7 @@ horizontal: false
 
           <p>
             <strong>Link:</strong>
-            <a href="https://gitlab.com/portfolio-sarah">
+            <a href="https://gitlab.com/portfolio-sarah/rag_chatbot">
               GitLab repository
             </a>
           </p>
