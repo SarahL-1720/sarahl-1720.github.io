@@ -1,0 +1,151 @@
+cv:
+  name: Sarah Lamik
+  label: ML Research Engineer
+  email: sarahlamik9@gmail.com
+  phone: "+33 6 95 39 07 28"
+  location: Paris, France
+  image: ""
+  summary: >-
+    ML engineer with research experience in designing and running independent experiments
+    across reinforcement learning, graph neural networks, self-supervised learning and
+    JAX-based implicit deep learning, with a focus on ablation-driven analysis of model
+    behavior. Available for full-time positions from January 2027.
+
+  social_networks:
+    - network: LinkedIn
+      username: sarah-lamik
+
+  address:
+    street: ""
+    city: Paris
+    region: Île-de-France
+    postalCode: ""
+    countryCode: FR
+
+  sections:
+    Education:
+      - institution: CentraleSupélec, Université Paris-Saclay
+        location: Gif-sur-Yvette, France
+        url: https://www.centralesupelec.fr/
+        area: Artificial Intelligence
+        studyType: Engineering Degree
+        start_date: 2022-09
+        end_date: 2026-04
+        score: "GPA: 4.09/4.33 (S1), 4.26/4.33 (S2)"
+        courses: "Statistical Learning, Convex Optimization, Reinforcement Learning (MDPs, bandits, policy gradient), Graph Machine Learning, Probabilistic Modeling, SAT Solving and Combinatorial Reasoning, Game Theory, Signal Processing, Cloud Computing"
+        highlights:
+          - Ranked 13th worldwide on the Shanghai ranking.
+
+      - institution: Lycée Hoche
+        location: Versailles, France
+        area: Mathematics and Physics
+        studyType: "CPGE PC* (Preparatory Classes)"
+        start_date: 2020-09
+        end_date: 2022-06
+        highlights:
+          - Intensive two-year selective program in Mathematics and Physics.
+          - Advanced Mathematics, Algorithms, Complexity Theory and Theoretical Physics.
+
+    Experience:
+      - company: RTE & Mines Paris
+        position: "Research Intern — Graph Neural Networks and Implicit Deep Learning"
+        location: France
+        start_date: 2026-05
+        end_date: 2026-10
+        summary: Ongoing research internship, co-authoring a scientific publication.
+        highlights:
+          - Co-authoring a scientific publication on the intersection of implicit deep learning and GNN prediction.
+          - Designed and implemented a Deep Equilibrium (DEQ) implicit layer within an existing library in JAX, targeting fixed-point convergence guarantees.
+          - Extended GNN architectures to hypergraphs and multigraphs, with theoretical analysis of expressiveness and structural properties.
+          - Investigated linear solver selection and sparsity-aware graph representations for scalable inference.
+
+      - company: European Central Bank
+        position: "Risk Management Department — ML Intern"
+        location: Frankfurt, Germany
+        start_date: 2025-01
+        end_date: 2025-06
+        summary: Received an official letter of recommendation.
+        highlights:
+          - Developed anomaly detection tools for financial risk monitoring.
+          - Designed and deployed a Retrieval-Augmented Generation (RAG) assistant for internal reports, used by 20+ team members.
+          - Implemented transformer-based NLP pipelines on large collections of unstructured documents.
+
+      - company: Audacia — Venture Capital
+        position: Technical Due Diligence Intern
+        location: France
+        start_date: 2024-07
+        end_date: 2024-12
+        highlights:
+          - Conducted technical due diligence on AI startups.
+          - Evaluated scientific and technological feasibility of AI-based industrial solutions.
+
+    Projects:
+      - name: Autonomous Driving with Reinforcement Learning
+        summary: Academic research project (GitHub).
+        highlights:
+          - Implemented and compared DQN, Double-DQN and Prioritized Experience Replay.
+          - Performed behavioral and performance analyses of trained agents.
+          - Evaluated the impact of algorithmic choices through ablation studies.
+        start_date: 2026-01-01
+        end_date: 2026-01-01
+
+      - name: Explainable Resource Allocation and Data Disclosure
+        summary: Studied privacy risks induced by explanations in SAT-based resource allocation systems (GitLab).
+        highlights:
+          - Formalized contrastive explanations using Minimum Unsatisfiable Sets (MUS).
+          - Designed quantitative metrics for measuring information disclosure.
+          - Investigated the trade-off between explainability and privacy under rank-k envy-freeness constraints.
+          - "Tools: PySAT, SAT solving, MUS extraction."
+        start_date: 2026-01-01
+        end_date: 2026-01-01
+
+      - name: Explainability in Linear Optimization
+        summary: "Reference letter by Vincent Mousseau (MICS, CentraleSupélec) — GitHub."
+        highlights:
+          - Developed algorithms for generating (1-1), (1-m), (m-1) and mixed explanations in optimization problems.
+          - Conducted large-scale experiments on transportation and healthcare datasets.
+          - Studied the existence conditions of optimization-based explanations.
+          - "Tools: Gurobi, scikit-learn, NetworkX."
+        start_date: 2026-01-01
+        end_date: 2026-01-01
+
+      - name: "Graph Neural Networks: GCN vs GAT Ablation Study"
+        summary: Academic research project (GitHub).
+        highlights:
+          - Investigated the architectural trade-offs between GCN and GAT for node classification and link prediction on large-scale graphs (git web ml: 37K nodes, 290K edges; WikiOGB).
+          - Implemented hard negative sampling to address the false negative issue in link prediction evaluation.
+          - "Best model (3-layer GCN + MLP decoder) achieved 93.3% link prediction accuracy; best classification model (2-layer GAT) reached 78.3% accuracy."
+          - "Tools: PyTorch Geometric, scikit-learn, Node2Vec baseline."
+        start_date: 2026-01-01
+        end_date: 2026-01-01
+
+    Skills:
+      - name: Deep Learning & ML
+        level: Advanced
+        icon: fa-solid fa-brain
+        keywords: "PyTorch, PyTorch Geometric, JAX, TensorFlow, scikit-learn, NumPy, pandas"
+
+      - name: Optimization & Symbolic AI
+        level: Advanced
+        icon: fa-solid fa-diagram-project
+        keywords: "Gurobi, PySAT, Constraint Programming, SAT Solving"
+
+      - name: Infrastructure
+        level: Intermediate
+        icon: fa-solid fa-server
+        keywords: "Git, Linux, SQL, AWS, CI/CD"
+
+      - name: Web/App
+        level: Intermediate
+        icon: fa-solid fa-code
+        keywords: "React, Node.js, Streamlit"
+
+    Languages:
+      - name: French
+        summary: "Native"
+
+      - name: English
+        summary: "Fluent (C1)"
+
+      - name: German
+        summary: "Intermediate (B1)"

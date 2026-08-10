@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://sarahl-1720.github.io//sitemap.xml
+Sitemap: https://sarahl-1720.github.io/sitemap.xml
