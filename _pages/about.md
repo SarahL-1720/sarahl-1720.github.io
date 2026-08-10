@@ -1,7 +1,7 @@
 ---
 layout: about
-title: about
 permalink: /
+title: about
 subtitle: "[CV](files/Cv_research_engineer_20260808.pdf) · [LinkedIn](https://www.linkedin.com/in/sarah-lamik-834541254/) · [GitHub](https://github.com/SarahL-1720) · [Email](mailto:sarahlamik9@gmail.com)"
 
 profile:
