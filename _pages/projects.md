@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
+title: Projects portfolio
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Most of my machine learning or symbolic AI projects in one place !
 nav: true
 nav_order: 3
 display_categories: [work, fun]
@@ -19,7 +19,7 @@ horizontal: false
         <div class="card-body">
 
           <h3 class="card-title">
-            2026 — Implicit Layer in a Graph Neural Network for the Power Grid
+            2026 -- Implicit Layer in a Graph Neural Network for the Power Grid
           </h3>
 
           <div class="mb-3">
@@ -38,7 +38,7 @@ horizontal: false
           </p>
 
           <p class="card-text">
-            <strong>Results:</strong> Ongoing — forward and backward passes are
+            <strong>Results:</strong> <i> Ongoing</i> -- forward and backward passes are
             working; training is in progress.
           </p>
 
@@ -53,7 +53,7 @@ horizontal: false
         <div class="card-body">
 
           <h3 class="card-title">
-            2026 — Explainable Resource Allocation and Data Disclosure
+            2026 -- Explainable Resource Allocation and Data Disclosure
           </h3>
 
           <div class="mb-3">
@@ -107,7 +107,7 @@ horizontal: false
         <div class="card-body">
 
           <h3 class="card-title">
-            2026 — Reinforcement Learning for Autonomous Driving
+            2026 -- Reinforcement Learning for Autonomous Driving
           </h3>
 
           <div class="mb-3">
@@ -138,10 +138,10 @@ horizontal: false
 
           <p class="card-text">
             I evaluated the impact of algorithmic choices through ablation
-            studies, investigating whether systematic hyperparameter
+            studies, <strong> investigating whether systematic hyperparameter
             optimization can close the performance gap between a vanilla DQN
             and its algorithmic extensions, or whether architectural
-            improvements provide independent gains.
+            improvements provide independent gains.</strong>
           </p>
 
         </div>
@@ -155,7 +155,7 @@ horizontal: false
         <div class="card-body">
 
           <h3 class="card-title">
-            2026 — Explainability in Linear Optimization
+            2026 -- Explainability in Linear Optimization
           </h3>
 
           <div class="mb-3">
@@ -193,7 +193,7 @@ horizontal: false
         <div class="card-body">
 
           <h3 class="card-title">
-            2026 — Graph Neural Networks: GCN vs GAT
+            2026 -- Graph Neural Networks: GCN vs GAT
           </h3>
 
           <div class="mb-3">
@@ -211,7 +211,7 @@ horizontal: false
           </p>
 
           <p class="card-text">
-            Investigated the architectural trade-offs between GCN and GAT for
+            <strong> Investigated the architectural trade-offs between GCN and GAT </strong> for
             node classification and link prediction on large-scale graphs,
             including Git Web ML (37K nodes, 290K edges) and WikiOGB.
           </p>
@@ -238,7 +238,7 @@ horizontal: false
         <div class="card-body">
 
           <h3 class="card-title">
-            2025 — Freelance Project: Medical Data Cleaning and Filling
+            2025 -- Freelance Project: Medical Data Cleaning and Filling
           </h3>
 
           <div class="mb-3">
@@ -274,7 +274,7 @@ horizontal: false
         <div class="card-body">
 
           <h3 class="card-title">
-            2025 — Retrieval Augmented Chatbot
+            2025 -- Retrieval Augmented Chatbot
           </h3>
 
           <div class="mb-3">

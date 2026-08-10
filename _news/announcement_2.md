@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+Happy to share that I am working jointly with RTE and Les Mines de Paris on a research Project on Implicit Layer for GNN  applied to power grid systems :zap: Clik [here]({{"/_pages/projects.md" | relative_url}}#2026 -- Implicit Layer in a Graph Neural Network for the Power Grid) for more details !
 
 ---
 
