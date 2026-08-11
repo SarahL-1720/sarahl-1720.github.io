@@ -4,9 +4,8 @@ title: Projects
 permalink: /projects/
 description: Most of my machine learning or symbolic AI projects in one place !
 nav: true
-nav_order: 3
-display_categories: [work, fun]
-horizontal: false
+nav_order: 2
+
 ---
 
 <div class="projects">

@@ -1,30 +1,29 @@
 ---
 layout: about
 permalink: /
-title: about
-subtitle: "[CV](files/Cv_research_engineer_20260808.pdf) · [LinkedIn](https://www.linkedin.com/in/sarah-lamik-834541254/) · [GitHub](https://github.com/SarahL-1720) · [Email](mailto:sarahlamik9@gmail.com)"
-
+title: About
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_color.png
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>sarahlamik9@gmail.com</p>
     <p>Paris, France</p>
 
-selected_papers: true
+selected_papers: false
 social: true
 
 announcements:
-  enabled: true
+  enabled: false
   scrollable: true
   limit: 5
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true
   limit: 3
 ---
+ [CV](/assets/pdf/Cv_research_engineer_20260808.pdf) · [LinkedIn](https://www.linkedin.com/in/sarah-lamik-834541254/) · [GitHub](https://github.com/SarahL-1720) · [Email](mailto:sarahlamik9@gmail.com)
 
 I am a junior machine learning researcher with experience in **iterative/equilibrium processes** in the context of implicit deep learning, reinforcement learning and graph neural networks.
 
