@@ -69,7 +69,7 @@ nav_order: 2
           </p>
 
           <p>
-            <strong>Link:</strong>
+            <strong>More details:</strong>
             <a href="{{ '/assets/pdf/Trade_off_between_Privacy_and_Explainability_in_House_Allocation_problems.pdf' | relative_url }}">
               Research report
             </a>
@@ -119,7 +119,7 @@ nav_order: 2
           </div>
 
           <p>
-            <strong>Links:</strong>
+            <strong>More details:</strong>
             <a href="{{ '/assets/pdf/RL_report_highway.pdf' | relative_url }}">
               Research report
             </a>
@@ -163,7 +163,7 @@ nav_order: 2
           </div>
 
           <p>
-            <strong>Link:</strong>
+            <strong>More details:</strong>
             <a href="https://github.com/SarahL-1720/linear-optimisation-sdp-project">
               GitHub repository
             </a>
@@ -203,7 +203,7 @@ nav_order: 2
           </div>
 
           <p>
-            <strong>Link:</strong>
+            <strong>More details:</strong>
             <a href="https://github.com/SarahL-1720/graph-analytics-ml">
               GitHub repository
             </a>
@@ -246,7 +246,7 @@ nav_order: 2
           </div>
 
           <p>
-            <strong>Repository:</strong>
+            <strong>More details:</strong>
             <a href="https://github.com/SarahL-1720/SIRET-medical-companies-data-cleaning">
               GitHub repository
             </a>
@@ -287,7 +287,7 @@ nav_order: 2
           </p>
 
           <p>
-            <strong>Link:</strong>
+            <strong>More details:</strong>
             <a href="https://gitlab.com/portfolio-sarah/rag_chatbot">
               GitLab repository
             </a>

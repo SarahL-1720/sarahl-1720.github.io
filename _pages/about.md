@@ -29,4 +29,4 @@ I am a junior machine learning researcher with experience in **iterative/equilib
 
 As a recent graduate from CentraleSupélec (master degree), specialized in AI and with a background in mathematics, I am seeking to apply that lens to problems in **combinatorial reasoning** (SAT/constraint solving) and **sequential decision-making** (RL/planning).
 
-I am looking for positions as a research engineer or machine learning engineer starting in January 2027.
+I am looking for positions as a research engineer or machine learning engineer starting in November 2026.
