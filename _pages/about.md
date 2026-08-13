@@ -4,8 +4,8 @@ permalink: /
 title: About
 profile:
   align: right
-  image: prof_pic_color.png
-  image_circular: true # crops the image to make it circular
+  image: Sarah_Lamik_photoJCS_cropped.jpg
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>sarahlamik9@gmail.com</p>
     <p>Paris, France</p>
